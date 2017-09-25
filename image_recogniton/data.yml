@@ -1,3 +1,5 @@
+---
+images:
 - image: /public/image_recogniton/img/ByMY5lIo-.jpg
 	caption: It's a bridge over a body of water.
 - image: /public/image_recogniton/img/S1NM3eIoZ.jpg
@@ -15,8 +17,10 @@
 - image: /public/image_recogniton/img/HJrzhqUoW.jpg
 	caption: It's a bridge over a body of water.
 - image: /public/image_recogniton/img/H1zN25Lsb.jpg
-	caption: I am not really confident, butit's a bag of luggage.
+	caption: I am not really confident, but it's a bag of luggage.
 - image: /public/image_recogniton/img/SkjU39Us-.jpg
 	caption: It's a tree in a forest.
 - image: /public/image_recogniton/img/HyK6hqLj-.jpg
 	caption: It's a tree in a forest.
+- image: /public/image_recogniton/img/BkNPTc8jb.jpg
+	caption: It's a sunset over a beach.
